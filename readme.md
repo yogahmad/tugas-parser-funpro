@@ -2,13 +2,13 @@
 Saya membuat parser yang bisa menentukan nilai operasi boolean.
 
 ## Logical operator Precedence
-- BRACKET "()"
-- NOT (!x)
-- IF AND ONLY IF (IFF) (<=>) 
-- IF (=>)
-- AND (&&)
-- XOR (^^)
-- OR (||)
+1. BRACKET "()"
+2. NOT (!x)
+3. IF AND ONLY IF (IFF) (<=>) 
+4. IF (=>)
+5. AND (&&)
+6. XOR (^^)
+7. OR (||)
 
 ## How To Run
 
