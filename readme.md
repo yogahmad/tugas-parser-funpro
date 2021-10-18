@@ -12,8 +12,8 @@ Saya membuat parser yang bisa menentukan nilai operasi boolean.
 
 ## How To Run
 
-parse expr $ deleteSpace  "(3 < 5 || 3 > 5) => !(3 == 5 <=> 3 == 5) ^^ T"
-parse expr $ deleteSpace "QUERY"
+- parse expr $ deleteSpace  "(3 < 5 || 3 > 5) => !(3 == 5 <=> 3 == 5) ^^ T"
+= parse expr $ deleteSpace "QUERY"
 
 ## Contoh Query
 
